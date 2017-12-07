@@ -1,0 +1,11 @@
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\Interop.LCC11.dll
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.ResolveComReference.cache
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.BarcodeGenerator.resources
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.Cache
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\Users\i3precision\Documents\Visual Studio 2015\Projects\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojResolveAssemblyReference.cache

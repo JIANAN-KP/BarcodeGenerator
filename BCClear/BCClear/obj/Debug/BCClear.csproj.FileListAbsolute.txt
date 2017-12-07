@@ -1,0 +1,6 @@
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\bin\Debug\BCClear.exe.config
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\bin\Debug\BCClear.exe
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\bin\Debug\BCClear.pdb
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\obj\Debug\BCClear.csprojResolveAssemblyReference.cache
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\obj\Debug\BCClear.exe
+c:\users\i3precision\documents\visual studio 2015\Projects\BCClear\BCClear\obj\Debug\BCClear.pdb
